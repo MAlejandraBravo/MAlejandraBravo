@@ -1,10 +1,10 @@
 <h1>Hi 😬, I'm Alejandra and I'm a Data Scientist</h1><p>I'm a PhD student trying to survive my thesis and publish some papers 🙂
 
-🔬 **Research Interests:**
+👩🏻‍💻 **Research Interests:**
 Deep Learning, Machine Learning, CNNs, Remote Sensing, Transfer Learning.
 
 
-**Education:**
+🎓 **Education:**
 - PhD student in Data Science, Universidad Adolfo Ibáñez (PhD (c)).
 - Master of Science in Data Science, Universidad Adolfo Ibáñez.
 - Bioinformatics Engineering, Universidad de Talca.
